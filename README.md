@@ -1,0 +1,1 @@
+these projects contains some basis level tasks like cleaning of data (clearing the null values,clearing the duplicate values,transforming the data types of different attributes) and importing the data from csv files and visualizing the different attributes
